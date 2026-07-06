@@ -1,0 +1,7 @@
+-- This module is the root of the TraceFormulaEndoscopyCanonicalLaneLean Lean proof package.
+import TraceFormulaEndoscopyCanonicalLaneLean.Basic
+import TraceFormulaEndoscopyCanonicalLaneLean.SourcePackage
+import TraceFormulaEndoscopyCanonicalLaneLean.SourceDependencies
+import TraceFormulaEndoscopyCanonicalLaneLean.Formalization
+import TraceFormulaEndoscopyCanonicalLaneLean.ReviewerBridge
+import TraceFormulaEndoscopyCanonicalLaneLean.TheoremStatement
